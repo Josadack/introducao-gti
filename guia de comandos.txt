@@ -48,3 +48,6 @@ Faça login no GitHub, se necessário
 
 As alterações devem aparecer no seu repositório no GitHub
 
+
+**agora estamos na branch nova
+git checkout -b dev
